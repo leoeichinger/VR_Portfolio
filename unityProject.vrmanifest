@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vr_portfolio_leoeichinger.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Repos 4AHMNM\\VR_Portfolio\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR_Portfolio_leoeichinger [Testing]"
+        }
+      }
+    }
+  ]
+}
